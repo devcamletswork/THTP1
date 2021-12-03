@@ -168,8 +168,11 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
-.bgColor {
+.bgColor1 {
   background-color: black;
+}
+.bgColor2 {
+  background-color: red;
 }
 .middleOfPage {
   padding-top: 20px;
