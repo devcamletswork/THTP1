@@ -22,6 +22,28 @@ a:hover {
   color: #6633ff;
 }
 
+
+/*projects */
+.img1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+.card {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.card:hover {
+  border-color: #ff99ff;
+}
+
 .bgColor {
   background-color: black;
 }
@@ -170,9 +192,13 @@ a.social:hover {
 }
 .bgColor1 {
   background-color: black;
+
 }
 .bgColor2 {
   background-color: red;
+}
+.text-color{
+  color: white;
 }
 .middleOfPage {
   padding-top: 20px;
